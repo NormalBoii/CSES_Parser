@@ -1,0 +1,2 @@
+[console_scripts]
+cses-fetch = csesfetch.cli:run
